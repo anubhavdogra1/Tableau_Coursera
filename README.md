@@ -1,17 +1,17 @@
 # Tableau Courses
 
-- Introduction to Tableau
-- Data Visualization with Tableau
-- Advanced Data Visualization with Tableau
-- Data Analysis with Tableau
-- Communicating Data Insights with Tableau
+- ### Introduction to Tableau
+- ### Data Visualization with Tableau
+- ### Advanced Data Visualization with Tableau
+- ### Data Analysis with Tableau
+- ### Communicating Data Insights with Tableau
 
-https://www.coursera.org/learn/introduction-to-tableau?
+### https://www.coursera.org/learn/introduction-to-tableau?
 
-Contact:
+## Contact:
 
-Anubhav Dogra
+## Anubhav Dogra
 
-anubhavdogra7@gmail.com
+## anubhavdogra7@gmail.com
 
-https://www.linkedin.com/in/anubhav-dogra/
+## https://www.linkedin.com/in/anubhav-dogra/
