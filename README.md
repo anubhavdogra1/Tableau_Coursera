@@ -1,4 +1,4 @@
-# Tableau Courses
+# Tableau
 
 - ### Introduction to Tableau
 - ### Data Visualization with Tableau
