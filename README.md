@@ -1,4 +1,5 @@
-I have completed the following Coursera Certifications:
+# Tableau Courses
+
 - Introduction to Tableau
 - Data Visualization with Tableau
 - Advanced Data Visualization with Tableau
