@@ -8,10 +8,11 @@
 
 ### https://www.coursera.org/learn/introduction-to-tableau?
 
-# Contact:
+---
 
-## Anubhav Dogra
+# Contact
 
-## anubhavdogra7@gmail.com
-
-## https://www.linkedin.com/in/anubhav-dogra/
+## Author: Anubhav Dogra
+## LinkedIn: [linkedin.com/in/anubhav-dogra ](https://www.linkedin.com/in/anubhav-dogra/)
+## Email: anubhavdogra7@gmail.com
+## Instagram: https://www.instagram.com/anubhavdogra1/
